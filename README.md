@@ -4,8 +4,8 @@ Rule-based decision making systems notes - IBM Operation decision manager rule e
 ## On job experience
 Temporary Java software engineer in multi-national corporation developing next generation goverment project
 - Paired with a senior colleague with tasks within development and testing phases of agile software development lifecycle, as an on-job learning experience
-- Tasked with identifying and troubleshooting issues within backend rule engine and object-oriented Java component, with collaboration among hybrid team in resolving complex issues
-- Utilised up to date information technology tools used to assist development within the context of a government contracted Information technology project. Namely: GitLab, mySQL, IBM Operational Decision Manager rule engine with Eclipse, Jira, MobaXterm
+- Effectively troubleshoot and resolve issues within backend rule engine and object-oriented Java component, with active collaboration among hybrid team through Jira and Microsoft Teams
+- Utilised up to date information technology tools used to assist development within the context of a government contracted Information technology project. Namely: GitLab, mySQL, IBM Operational Decision Manager rule engine with Eclipse, MobaXterm
 
 ## Executive summary
 Within the semester break of late May to early September 2021 after Year 2 of my undergraduate studies, I found temporary employment as Java Software engineer, with the scope of using IBM Operational Decision Manager for rule-based decision making for the company’s current project in developing next-generation government system. My job experience greatly provided much needed real world context within the ever evolving job industry as well as up to date information technology tools used to assist development. I seek to utilise this job experience gathered to value add to this project. 
